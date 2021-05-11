@@ -1,7 +1,5 @@
-table,r1,r2=map(int,input().split())
-if r1>r2:
-   r1,r2=r2,r1
+table=int(input())
+for i in range(1,step+1):
+   print(table 'X' i '='table*i) 
 
-while r1<=r2: 
-     print(table,'X',r1,'=',table*r1)
-     r1+=1
+
