@@ -34,7 +34,7 @@ col = ['violet', 'indigo', 'blue',
        'green', 'yellow', 'orange', 'red']
  
 # Setup the screen features
-sc.setup(600, 600)
+sc.setup(900, 600)
  
 # Set the screen color to black
 sc.bgcolor('black')
