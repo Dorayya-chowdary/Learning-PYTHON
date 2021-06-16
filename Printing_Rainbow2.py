@@ -42,7 +42,7 @@ sc.bgcolor('black')
 # Setup the turtle features
 pen.right(90)
 pen.width(20)
-pen.speed(90)
+pen.speed(30)
  
 # Loop to draw 7 semicircles
 for i in range(7):
