@@ -1,5 +1,5 @@
 table=int(input())
 for i in range(1,step+1):
-   print(table '' i '='table*i) 
+   print(table 'X' i '='table*i) 
 
 
